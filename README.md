@@ -22,17 +22,12 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-## 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=srky974/&count_private=true&show_icons=true&theme=tokyonight">
-</p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srky974/&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
+Contact me via these platforms!
+[gmail]: ceylancyln1453@gmail.com
+[instagram]: https://www.instagram.com/ceylansrky25
+[linkedin]: https://www.linkedin.com/in/ceylan-sar%C4%B1kaya-b3b451208/
 
-</p>
 
 
 
