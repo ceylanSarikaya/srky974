@@ -1,4 +1,4 @@
-### Hello World, I'm Ceylan  👋
+### Hello, I'm Ceylan  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
-Contact me via these platforms!
+## Contact me via these platforms!
 <br>
   <a href="https://www.linkedin.com/in/ceylan-sar%C4%B1kaya-b3b451208/" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ceylancyln1453@gmail.com" target="_blank" rel="nofollow"><img alt="Ceylan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
