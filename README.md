@@ -24,13 +24,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 Contact me via these platforms!
-  <a href="https://www.linkedin.com/in/k%C3%BCbra-terzi-7b0b83204/" target="_blank" rel="nofollow"><img alt="Kübra's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kubraterzi0394@gmail.com" target="_blank" rel="nofollow"><img alt="Kübra's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br>
+  <a href="https://www.linkedin.com/in/ceylan-sar%C4%B1kaya-b3b451208/" target="_blank" rel="nofollow"><img alt="Ceylan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ceylancyln1453@gmail.com" target="_blank" rel="nofollow"><img alt="Ceylan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee"></img>
-[gmail]: ceylancyln1453@gmail.com
-[instagram]: https://www.instagram.com/ceylansrky25
-[linkedin]: https://www.linkedin.com/in/ceylan-sar%C4%B1kaya-b3b451208/
+
 
 
 
