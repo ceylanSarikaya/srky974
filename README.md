@@ -1,7 +1,6 @@
 ### Hello World, I'm Ceylan  👋
 
- <img align="right" alt="GIF" width="500" height="320" />
-
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here.
