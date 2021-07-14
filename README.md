@@ -32,22 +32,33 @@
 
 <br />
 ---
-
+## 📊 GitHub Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ceylan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Ceylan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kubraterzi&count_private=true&show_icons=true&theme=tokyonight">
+</p>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraterzi&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
+
+</p>
 
 
